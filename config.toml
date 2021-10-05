@@ -1,4 +1,3 @@
-baseurl = "http://jakeasauter.github.io"
 title = "Jake Sauter"
 
 theme = "hugo-coder"
