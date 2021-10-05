@@ -28,7 +28,7 @@ disqusShortname = "yourdiscussshortname"
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    commit = "https://github.com/luizdepra/hugo-coder"
 
     rtl = false
 
@@ -75,27 +75,27 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "About"
             weight = 1
-            url = "about/"
+            url = "/about/"
             
             [[languages.en.menu.main]]
             name = "CV"
             weight = 1
-            url = "cv/"
+            url = "/cv/"
             
             [[languages.en.menu.main]]
             name = "Tutoring"
             weight = 5
-            url = "tutoring/"
+            url = "/tutoring/"
 
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 3
-            url = "projects/"
+            url = "/projects/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
-            url = "contact/"
+            url = "/contact/"
 
 
 [markup]
