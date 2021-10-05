@@ -79,9 +79,14 @@ disqusShortname = "yourdiscussshortname"
             url = "about/"
             
             [[languages.en.menu.main]]
-            name = "Resume"
+            name = "CV"
             weight = 1
-            url = "resume/"
+            url = "cv/"
+            
+            [[languages.en.menu.main]]
+            name = "Tutoring"
+            weight = 5
+            url = "tutoring/"
 
             [[languages.en.menu.main]]
             name = "Projects"
